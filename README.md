@@ -8,5 +8,5 @@ Perform statiscal analysis to forecast the Consumer Price Index of Singapore for
 * Reverse engineer the adjustment made previously to get the correct forecast value.
 
 <p align="center">
-  <img width="800" height="640" src="https://github.com/ChuaMervin/SG_CPI/blob/main/CPI.png">
+  <img width="800" height="640" src="https://github.com/ChuaMervin/Porfortlio/blob/main/images/CPI.png">
 </p>
